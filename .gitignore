@@ -1,0 +1,8 @@
+.terraform/
+terraform.tfstate*
+plan.out
+my_key*
+*.lock.info
+.DS_Store
+kim_cnn_tagger.weights.hdf5
+.ipynb_checkpoints

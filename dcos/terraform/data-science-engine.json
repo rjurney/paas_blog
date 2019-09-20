@@ -1,0 +1,11 @@
+{
+  "service": {
+    "name": "data-science-engine",
+    "cpus": 8,
+    "mem": 51200,
+    "gpu": {
+      "enabled": true,
+      "gpus": 1
+    }
+  }
+}
