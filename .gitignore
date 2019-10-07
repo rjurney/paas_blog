@@ -6,3 +6,4 @@ my_key*
 .DS_Store
 kim_cnn_tagger.weights.hdf5
 .ipynb_checkpoints
+nohup.out
